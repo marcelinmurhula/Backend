@@ -40,18 +40,9 @@ Built with React + Vite for speed and simplicity.
 - `@vitejs/plugin-react` — React Fast Refresh using Babel (or oxc)
 - `@vitejs/plugin-react-swc` — React Fast Refresh using SWC
 
-### React Compiler
-
-The React Compiler is not enabled by default due to its impact on development and build performance.
-
-To enable it, see the official documentation:
-[https://react.dev/learn/react-compiler/installation](https://react.dev/learn/react-compiler/installation)
-
 ## Linting & Type Safety
 
-For production use, TypeScript with type-aware linting is recommended.
-
-You can start from the official Vite React + TypeScript template:
+Wanna do better.. good luck grand. Thanks to start from the official Vite React + TypeScript template:
 [https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)
 
 ## Vision
@@ -68,5 +59,3 @@ VerSel aims to become a global AI learning coach that:
 MIT License
 
 ---
-
-**Copy & Paste Note:** This README is written in Markdown. You can copy the entire content above and paste it directly into the `README.md` file in your VerSel GitHub repository. The formatting (headers, lists, blockquotes) will render correctly on GitHub.
